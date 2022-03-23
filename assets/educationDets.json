@@ -1,0 +1,18 @@
+{
+   "arrInst": [
+    {
+      "position": 1, 
+      "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded", 
+      "degree": "BTech Information Technology", 
+      "percentage": 7.76
+    },
+    {
+        "position": 2, 
+        "name": "International Institute of Information Technology, Bhubaneswar", 
+        "degree": "MTech Computer Science", 
+        "percentage": 9.0
+    }
+    ],
+
+    "arrCols": ["Position", "Institute", "Degree", "Percentage/CGPA"]
+}

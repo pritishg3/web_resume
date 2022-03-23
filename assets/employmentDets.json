@@ -1,0 +1,86 @@
+{
+  "empDet": [
+    {
+      "id": "panel-1",
+      "title": "Siemens Technology and Services Pvt. Ltd.",
+      "shortDesc": "March 2022 - present",
+      "longDesc": "Working as a Senior web developer for developing MEAN stack based web applications.",
+      "description": [{
+        "dec": "",
+        "bullets": []
+      }],
+      "isDisabled": false,
+      "isExpanded": false
+    },
+    {
+      "id": "panel-2",
+      "title": "Mindtree Limited, [Bangalore, India]",
+      "shortDesc": "March 2021 - March 2022",
+      "longDesc": "Worked as a Full stack stack developer for implementing the features of the web applications and tools",
+      "description": [
+        {
+          "dec": "Implemented an Admin panel using MEAN stack, meant to facilitate the admin activities of a web application. The activities involve, designing web UI, facilitating the user authentication and providing relevant web APIs on the backend. This project enables user to update the web portal in terms of recent software releases and user documentation. The project involved following activities performed by me.",
+          "bullets": ["Providing REST api in express to facilitate image upload using Multer.",
+            "Enabling lazy loading for the components and implementing user friendly UI implementation.",
+            "Fetching the user data from the database as required and implementing JWT authentication."
+          ]
+        },
+        {
+          "dec": "Responsible for developing CI/CD pipeline using Jenkins – Pipeline and SonarQube meant for analysis of the code quality. Written validation scripts in Nodejs for verifying the Json files",
+          "bullets": ["Developing groovy scripts to automate stages in Jenkins",
+            "Developing required nodejs scripts.",
+            "Facilitating the new features and its test suite integration with Jenkins."
+          ]
+        },
+        {
+          "dec": "Involved in the development of Customer specific VS-code plugins using typescript and webview",
+          "bullets": ["Involved in implementing new features facilitating customer requirements ",
+            "Understanding the workflow of the existing extensions and introduced fixes for the same"
+          ]
+        }
+      ],
+      "isDisabled": false,
+      "isExpanded": false
+    },
+    {
+      "id": "panel-3",
+      "title": "EFI India, [Bangalore, India]",
+      "shortDesc": "June 2016 - March 2021",
+      "longDesc": "Involved in maintaining and developing features useful in Digital Front Ends for digital Printing.",
+      "description": [{
+          "dec": "Responsible for developing, maintaining the Hybrid applications and standalone web applications using technologies such as Core JavaScript, Angular and Express JS for backend.",
+          "bullets": ["Involves developing features using Angular framework (using concepts of components, services etc) (2. Integrating the backend services with UI for data communication and storage.",
+            "Resolving issues in UI and backend through VS code debugger in backend Nodejs services for json data storage.Enabling lazy loading for the components and implementing user friendly UI implementation.",
+            "Writing Angular services to integrate APIs to subscribe data needed for Front End.",
+            "Writing REST APIs in Express-js (Nodejs) to manipulate the data in json file. "
+          ]
+        },
+        {
+          "dec": "Worked as a C++ developer for implementing front end features for enabling digital printing",
+          "bullets": ["Involves developing UIs and backend communication",
+            "Designing classes to support new functionality and enabling the end-to-end UI communication",
+            "Managing logging in the current environment."
+          ]
+        },
+        {
+          "dec": "Developed a POC for digital frontend UI in Angular. ",
+          "bullets": []
+        }
+      ],
+      "isDisabled": false,
+      "isExpanded": false
+    },
+    {
+      "id": "panel-4",
+      "title": "VNIT, [Nagpur, India]",
+      "shortDesc": "June 2015 - April 2016",
+      "longDesc": "Involved as an Adjunct Assistant professor for Computer Science courses.",
+      "description": [{
+        "dec": "Was responsible for coaching and guiding application-based Computer Science courses like Operating Systems, Computer organisation.",
+        "bullets": []
+      }],
+      "isDisabled": false,
+      "isExpanded": false
+    }
+  ]
+}
