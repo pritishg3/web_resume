@@ -6,10 +6,8 @@
       "shortDesc": "March 2022 - present",
       "longDesc": "Working as a Senior web developer for developing MEAN stack based web applications.",
       "description": [{
-        "dec": "Responsible for designing and developing the new age Web application using MEAN stack",
-        "bullets": ["Implementing the prototype of the conepts.",
-                   "Implementing the design features by getting approval from product owner.",
-                   "Suggesting the innovative changes while implementing the application from scratch."]
+        "dec": "",
+        "bullets": []
       }],
       "isDisabled": false,
       "isExpanded": false
