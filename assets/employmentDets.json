@@ -3,13 +3,11 @@
     {
       "id": "panel-1",
       "title": "Siemens Technology and Services Pvt. Ltd.",
-      "shortDesc": "March 2022 - till date",
+      "shortDesc": "March 2022 - present",
       "longDesc": "Working as a Senior web developer for developing MEAN stack based web applications.",
       "description": [{
-        "dec": "Involved as a Senior Software Developer for designing and developing new age Angular web application.",
-        "bullets": ["Prototyping the early stages for application development.",
-                   "Developing the web components.",
-                   "Understanding the new requirements and incorporating those as features."]
+        "dec": "",
+        "bullets": []
       }],
       "isDisabled": false,
       "isExpanded": false
