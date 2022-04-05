@@ -7,9 +7,9 @@
       "longDesc": "Working as a Senior web developer for developing MEAN stack based web applications.",
       "description": [{
         "dec": "Involved as a Senior Software Developer for designing and developing new age Angular web application.",
-        "bullets": ['Prototyping the early stages for application development.',
-                   'Developing the web components.',
-                   'Understanding the new requirements and incorporating those as features.']
+        "bullets": ["Prototyping the early stages for application development.",
+                   "Developing the web components.",
+                   "Understanding the new requirements and incorporating those as features."]
       }],
       "isDisabled": false,
       "isExpanded": false
